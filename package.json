@@ -1,0 +1,21 @@
+{
+  "name": "mongoose-joi-schema",
+  "version": "0.0.1",
+  "description": "Converts mongoose schema to Joi schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "joi",
+    "validation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "is-plain-object": "^2.0.4",
+    "joi": "^13.0.2",
+    "mongoose": "^4.13.1"
+  }
+}
